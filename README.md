@@ -1,7 +1,9 @@
 # Fiszki
+<img src="URL_obrazu" alt="Alternatywny tekst" width="20" height="60">
+
 
 Jest to aplikacja umożliwiająca tworzenie oraz usuwanie fiszek. Proces tworzenia polega na nadaniu nazwy grupie fiszek oraz wprowadzeniu treści fiszek. W głównym oknie, mamy do wyboru 2 przyciski nowe fiszki gdzi ebedzie sie tworzyło fiszki oraz przycisk nauka, po nacisnieciu na naukę, wyświetla się lista stworzonych fiszek. 
-![obraz](https://github.com/Jey0204/Fiszki/assets/130754053/94f014b8-3f97-403a-bb34-c08e42d1c0a2)
+![Alternatywny tekst](https://github.com/Jey0204/Fiszki/assets/130754053/94f014b8-3f97-403a-bb34-c08e42d1c0a2)
 
 ![432904013_1182955509783370_1462965819851448847_n](https://github.com/Jey0204/Fiszki/assets/130754053/fff7fc5c-5f96-4d75-88a4-ce970004b55c) ![434304129_925794009291403_6615867129443797897_n](https://github.com/Jey0204/Fiszki/assets/130754053/b7829965-0b66-4867-bca4-7c70324de7dc)
 
