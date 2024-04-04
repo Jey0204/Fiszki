@@ -5,6 +5,7 @@ Jest to aplikacja umożliwiająca tworzenie oraz usuwanie fiszek. Proces tworzen
 <img src="https://github.com/Jey0204/Fiszki/assets/130754053/94f014b8-3f97-403a-bb34-c08e42d1c0a2" alt="Przykładowy obraz" width="200" height="auto">
 
 <img src="(https://github.com/Jey0204/Fiszki/assets/130754053/fff7fc5c-5f96-4d75-88a4-ce970004b55c)" alt="Przykładowy obraz" width="200" height="auto">
+
 <img src="https://github.com/Jey0204/Fiszki/assets/130754053/b7829965-0b66-4867-bca4-7c70324de7dc" alt="Przykładowy obraz" width="200" height="auto">
 
 
