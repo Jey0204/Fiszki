@@ -10,32 +10,22 @@ Jest to aplikacja umożliwiająca tworzenie oraz usuwanie fiszek. Proces tworzen
 
 Gdy dodamy pierwszą fiszke o konkretnej kategori, kolejne fiszki bedą dodawane do tej kategorii.
 
-<img src="https://github.com/Jey0204/Fiszki/assets/130754053/94f014b8-3f97-403a-bb34-c08e42d1c0a2" alt="Przykładowy obraz" width="200" height="auto">
-
-![433073659_2489728284532261_303159914582665326_n](https://github.com/Jey0204/Fiszki/assets/130754053/73336e2d-2b9f-4d3f-b07f-181c964d1d1c)
+<img src="https://github.com/Jey0204/Fiszki/assets/130754053/73336e2d-2b9f-4d3f-b07f-181c964d1d1c" alt="Przykładowy obraz" width="200" height="auto">
 
 Po naciśnieciu w głównym oknie przycisku nauka, przekierowuje nas do listy naszych fiszek.
 
-<img src="https://github.com/Jey0204/Fiszki/assets/130754053/94f014b8-3f97-403a-bb34-c08e42d1c0a2" alt="Przykładowy obraz" width="200" height="auto">
-
-![434407554_943477607566301_1515079465998870592_n](https://github.com/Jey0204/Fiszki/assets/130754053/9467af09-dad6-41d4-92aa-d445c060a667)
+<img src="https://github.com/Jey0204/Fiszki/assets/130754053/9467af09-dad6-41d4-92aa-d445c060a667" alt="Przykładowy obraz" width="200" height="auto">
 
 Po wybraniu zestawu naszych fiszek, zaczynaja one nam sie wyswietlac w kolejności od tych fiszek których nie potrafimy aż sie nauczymy wszystkich.
 
-<img src="https://github.com/Jey0204/Fiszki/assets/130754053/94f014b8-3f97-403a-bb34-c08e42d1c0a2" alt="Przykładowy obraz" width="200" height="auto">
-
-![434500449_1864325910673854_6689723605778501973_n](https://github.com/Jey0204/Fiszki/assets/130754053/03152215-3a09-4416-a0fb-a44d0d118df8)
+<img src="https://github.com/Jey0204/Fiszki/assets/130754053/03152215-3a09-4416-a0fb-a44d0d118df8" alt="Przykładowy obraz" width="200" height="auto">
 
 Po naciśnieciu na Fiszke zmeinia nam się strona fiszki na odpowiedź.
 
-<img src="https://github.com/Jey0204/Fiszki/assets/130754053/94f014b8-3f97-403a-bb34-c08e42d1c0a2" alt="Przykładowy obraz" width="200" height="auto">
-
-![432847790_798405045535894_4813112427173235723_n](https://github.com/Jey0204/Fiszki/assets/130754053/c23317cc-5f32-4ac2-ad28-e8c0a57839dd)
+<img src="https://github.com/Jey0204/Fiszki/assets/130754053/c23317cc-5f32-4ac2-ad28-e8c0a57839dd" alt="Przykładowy obraz" width="200" height="auto">
 
 Po wyborze poziomu naszej umiejętności danej fiszki (dobrze, nie wiem, źle) wyświetla nam się kolejna fiszka.
 
-<img src="https://github.com/Jey0204/Fiszki/assets/130754053/94f014b8-3f97-403a-bb34-c08e42d1c0a2" alt="Przykładowy obraz" width="200" height="auto">
-
-![434362210_1555541058627242_1128877666254414218_n](https://github.com/Jey0204/Fiszki/assets/130754053/586e5754-b858-440c-84e0-1ca705024d8d)
+<img src="https://github.com/Jey0204/Fiszki/assets/130754053/586e5754-b858-440c-84e0-1ca705024d8d" alt="Przykładowy obraz" width="200" height="auto">
 
 W statystykach wypisują nam się wszystkie fiszki z konkretnej kategorii oraz nasz poziom wiedzy na ich temat (buźka smutna, buźka uśmiechnięta i buźka najbardziej uśmiechnięta).
