@@ -5,9 +5,9 @@ Jest to aplikacja umożliwiająca tworzenie oraz usuwanie fiszek. Proces tworzen
 <img src="https://github.com/Jey0204/Fiszki/assets/130754053/94f014b8-3f97-403a-bb34-c08e42d1c0a2" alt="Przykładowy obraz" width="200" height="auto">
 
 
-<img src="https://github.com/Jey0204/Fiszki/assets/130754053/5855270a-c5ad-4ec3-8fe0-b9ae7b3551d3" alt="Przykładowy obraz" width="200" height="auto">
+<img src="https://github.com/Jey0204/Fiszki/assets/130754053/ca294262-e290-4581-a4b9-3d3b3114f0c6" alt="Przykładowy obraz" width="200" height="auto">
 
-<img src="https://github.com/Jey0204/Fiszki/assets/130754053/b7829965-0b66-4867-bca4-7c70324de7dc" alt="Przykładowy obraz" width="200" height="auto">
+<img src="https://github.com/Jey0204/Fiszki/assets/130754053/1da8b76c-dc8e-45d8-915a-cdf82d6965e5" alt="Przykładowy obraz" width="200" height="auto">
 
 
 Gdy dodamy pierwszą fiszke o konkretnej kategori, kolejne fiszki bedą dodawane do tej kategorii.
@@ -31,3 +31,7 @@ Po wyborze poziomu naszej umiejętności danej fiszki (dobrze, nie wiem, źle) w
 <img src="https://github.com/Jey0204/Fiszki/assets/130754053/586e5754-b858-440c-84e0-1ca705024d8d" alt="Przykładowy obraz" width="200" height="auto">
 
 W statystykach wypisują nam się wszystkie fiszki z konkretnej kategorii oraz nasz poziom wiedzy na ich temat (buźka smutna, buźka uśmiechnięta i buźka najbardziej uśmiechnięta).
+
+<img src="https://github.com/Jey0204/Fiszki/assets/130754053/78a86d44-5af1-430e-bf9d-e45c49d289fa" alt="Przykładowy obraz" width="200" height="auto">
+
+Po nauce wszystkich fiszek (zaznaczeniu wszystkich na dobrze) wyświetli nam się komunikat, że sie nauczyliśmy.
